@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashi Gupta.</h1>
-<h3 align="center">A passionate ML Developer currently pursuing B.Tech CSE in India.</h3>
+<h3 align="center">A passionate ML and Data Science enthusiast currently working as a SE in TCS, India.</h3>
 
 <img align ="right" alt="coding" width="600" src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gif">
 
@@ -9,7 +9,7 @@
 
 - ✨ I’m higly interested in learning **Machine Learning , Data Science, DSA**
 
-- 🌱 I’m currently learning **DSA , NodeJs, Java**
+- 🌱 I’m currently learning **DSA , DevOps, Java**
 
 - 👯 I’m looking to collaborate on **Interesting Projects or any Open Source Event.**
 
